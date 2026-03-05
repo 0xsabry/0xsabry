@@ -25,8 +25,8 @@
 ```python
 class SecurityAnalyst:
     def __init__(self):
-        self.name      = "Mohamed Sabry Hamdan"
-        self.alias     = "0xSABRY"
+        self.name       = "Mohamed Sabry Hamdan"
+        self.alias      = "0xSABRY"
         self.role       = ["SOC Analyst", "DFIR Specialist", "Security Trainer"]
         self.education  = "B.Sc. Information Technology — EELU (2022-2026)"
         self.location   = "Egypt 🇪🇬"
@@ -72,16 +72,42 @@ class SecurityAnalyst:
 <sub>📅 2024</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" width="110"/><br/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" width="110"/><br/>
+<b>Security Operations<br/>Center (SOC)</b><br/>
+<sub>Cisco</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" width="110"/><br/>
+<b>Ethical Hacker</b><br/>
+<sub>Cisco Networking Academy</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" width="110"/><br/>
 <b>Introduction to<br/>Cybersecurity</b><br/>
-<sub>IBM & Cisco</sub><br/>
+<sub>Cisco Networking Academy</sub><br/>
 <sub>📅 2024</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/MaharaTech-FF6F00?style=for-the-badge" width="110"/><br/>
+<b>Incident Handling<br/>& Response</b><br/>
+<sub>MaharaTech - ITIMooca</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" width="110"/><br/>
+<b>Pre Security</b><br/>
+<sub>TryHackMe</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" width="110"/><br/>
+<b>ISO 31000<br/>Risk Management</b><br/>
+<sub>Udemy</sub>
 </td>
 <td align="center" width="20%">
 <img src="https://img.shields.io/badge/Alfaisal-8B0000?style=for-the-badge" width="110"/><br/>
 <b>Critical Thinking &<br/>Problem Solving</b><br/>
-<sub>Alfaisal University</sub><br/>
-<sub>📅 2024</sub>
+<sub>Alfaisal University</sub>
 </td>
 </tr>
 </table>
@@ -112,15 +138,15 @@ Founded a cybersecurity training platform. Delivering hands-on training in <b>SO
 <td>
 <b>Cyber Security Incident Response Analyst</b> — <b>Digital Egypt Pioneers Initiative (DEPI)</b><br/>
 <sub>📅 Oct 2024 – May 2025 &nbsp;|&nbsp; Internship</sub><br/>
-Developed incident response strategies and threat detection workflows in a <b>SOC environment</b>. Built a <b>22-page Phishing IR Framework</b> covering SPF/DKIM analysis, malware sandboxing, and <b>Splunk SIEM</b> integration. Hands-on alert triage and security incident investigation.
+Developed incident response strategies and threat detection workflows in a <b>SOC environment</b>. Built a <b>22-page Phishing IR Framework</b> covering SPF/DKIM analysis, malware sandboxing, and <b>Splunk SIEM</b> integration.
 </td>
 </tr>
 <tr>
-<td width="70">🖥️</td>
+<td width="70">🇬🇧</td>
 <td>
-<b>IT System Administrator</b> — <b>Damietta University</b><br/>
+<b>Intern</b> — <b>British University</b><br/>
 <sub>📅 Internship</sub><br/>
-Managed <b>network infrastructure</b>, performed <b>risk assessments</b>, and maintained system security across university IT resources.
+Gained professional exposure in an international academic environment, strengthening technical and communication skills.
 </td>
 </tr>
 <tr>
@@ -173,7 +199,7 @@ Soft skills intensive: emotional intelligence, presentation techniques, and prof
 <img src="https://img.shields.io/badge/Incident_Management-673AB7?style=flat-square"/>
 <img src="https://img.shields.io/badge/Vulnerability_Assessment-00BCD4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Penetration_Testing-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/IR_Planning-795548?style=flat-square"/>
+<img src="https://img.shields.io/badge/ISO_31000_Risk_Mgmt-795548?style=flat-square"/>
 </p>
 
 ### 🧰 Security Tools & SIEM
@@ -184,6 +210,7 @@ Soft skills intensive: emotional intelligence, presentation techniques, and prof
 <img src="https://img.shields.io/badge/Wazuh-3C873A?style=flat-square"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white"/>
 <img src="https://img.shields.io/badge/Autopsy-4A90D9?style=flat-square"/>
 <img src="https://img.shields.io/badge/FTK_Imager-6C63FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Hashcat-FF4500?style=flat-square"/>
@@ -232,7 +259,7 @@ Soft skills intensive: emotional intelligence, presentation techniques, and prof
 - 📐 **Sigma** YAML rule support
 - ⌨️ **CLI + GUI** dual mode
 - 🔒 File integrity hashing (MD5/SHA256)
-- ⚙️ **GitHub Actions CI** — tested on Python 3.8-3.12
+- ⚙️ **GitHub Actions CI** — Python 3.8-3.12
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/v3.0.0-brightgreen?style=flat-square"/>
@@ -306,13 +333,13 @@ Soft skills intensive: emotional intelligence, presentation techniques, and prof
 
 <div align="center">
 
-| 🌐  | **14,200+ LinkedIn Followers** — Active cybersecurity content creator                           |
-| :-: | :---------------------------------------------------------------------------------------------- |
-| 📝  | **SOC Interview Guides** — Published comprehensive guides helping aspiring SOC analysts prepare |
-| 🛡️  | **IR Simulation Resources** — Sharing incident response scenarios and frameworks                |
-| 🎓  | **Security Training** — Delivering SOC fundamentals & SIEM/ELK training at Zero2Aura            |
-| 🚩  | **CTF Player** — Competing in capture-the-flag competitions                                     |
-| 💬  | \*Described by peers as **"hardworking and dedicated"\***                                       |
+| 🌐  | **14,200+ LinkedIn Followers** — Active cybersecurity content creator                   |
+| :-: | :-------------------------------------------------------------------------------------- |
+| 📝  | **SOC Interview Guides** — Published comprehensive guides helping aspiring SOC analysts |
+| 🛡️  | **IR Simulation Resources** — Sharing incident response scenarios and frameworks        |
+| 🎓  | **Security Trainer** — Delivering SOC fundamentals & SIEM/ELK training at Zero2Aura     |
+| 🚩  | **CTF Player** — Active in capture-the-flag competitions                                |
+| 💬  | \*Described by peers as **"hardworking and dedicated"\***                               |
 
 </div>
 
@@ -322,7 +349,7 @@ Soft skills intensive: emotional intelligence, presentation techniques, and prof
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xsabry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&text_color=c9d1d9&icon_color=9b59b6&count_private=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=0xsabry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&text_color=c9d1d9&icon_color=9b59b6&count_private=true" width="48%" alt="Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xsabry&theme=tokyonight&hide_border=true&background=0d1117&ring=00cfff&fire=ff1744&currStreakLabel=00cfff" width="48%" alt="Streak"/>
 
 <br/>
