@@ -142,7 +142,7 @@ Developed a 22-page Phishing Incident Response Framework covering the full 6-pha
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xsabry&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" width="48%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xsabry&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xsabry&theme=github-dark-blue&hide_border=true&background=0d1117" width="48%"/>
 
 </div>
