@@ -1,160 +1,166 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(max-width: 760px)" srcset="assets/banner-mobile.svg">
+    <img src="assets/banner.svg" width="900" alt="Mohamed Sabry Hamdan — SOC Analyst & DFIR Specialist" />
+  </picture>
+</p>
 
-# Mohamed Sabry Hamdan
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-sabry-hamdan/"><img src="https://img.shields.io/badge/-LinkedIn-161b22?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://github.com/0xsabry"><img src="https://img.shields.io/badge/-GitHub-161b22?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://0xsabry.github.io/soc-lab-project/"><img src="https://img.shields.io/badge/-SOC_Portfolio-161b22?style=flat&logo=target&logoColor=58a6ff" alt="SOC Portfolio"/></a>
+  <a href="https://www.linkedin.com/company/zero-2-aura/"><img src="https://img.shields.io/badge/-Zero2Aura_Instructor-161b22?style=flat&logo=shield&logoColor=3fb950" alt="Zero2Aura"/></a>
+  <a href="mailto:2201381@student.eelu.edu.eg"><img src="https://img.shields.io/badge/-Email-161b22?style=flat&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=0xsabry&label=Profile%20views&color=58a6ff&style=flat" alt="Profile views"/>
+</p>
 
-**`SOC Analyst`** · **`DFIR Specialist`** · **`Security Tool Developer`** · **`CTF Player`**
+<p align="center">
+  <img src="assets/divider.svg" width="900" alt="" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sabry-hamdan/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xsabry)
+## <img src="assets/icons/user.svg" width="23" alt="" /> Hey, I'm Mohamed
 
+**SOC Analyst & DFIR Specialist** specializing in security monitoring, proactive threat detection, digital forensics, and security tool engineering. Currently completing intensive SOC & cybersecurity tracks at **NTI** (Fortinet SecOps) and **ITI** (Enterprise Network Hardening), working in DFIR at the **Digital Egypt Pioneers Initiative (DEPI)**, and serving as a **Cybersecurity Instructor at Zero2Aura**.
 
-</div>
+<p align="center">
+  <img src="assets/divider.svg" width="900" alt="" />
+</p>
 
----
+## <img src="assets/icons/shield.svg" width="23" alt="" /> Core Expertise & Skills
 
-### About
+#### <img src="assets/icons/node.svg" width="11" alt="" /> &nbsp;Security Operations & SIEM / EDR
 
-SOC Analyst specializing in security monitoring, threat detection, and digital forensics. I build open-source security tools and contribute to the blue team community. Currently pursuing B.Sc. Information Technology at EELU while working in DFIR at DEPI and running **Zero2Aura** — a tech academy empowering the next generation of cybersecurity professionals.
+<p>
+  <img src="https://img.shields.io/badge/-Wazuh%20SIEM-161b22?style=flat&logo=wazuh&logoColor=007ec6" alt="Wazuh"/>
+  <img src="https://img.shields.io/badge/-FortiSIEM-161b22?style=flat&logo=fortinet&logoColor=EE3124" alt="FortiSIEM"/>
+  <img src="https://img.shields.io/badge/-FortiAnalyzer-161b22?style=flat&logo=fortinet&logoColor=EE3124" alt="FortiAnalyzer"/>
+  <img src="https://img.shields.io/badge/-Splunk-161b22?style=flat&logo=splunk&logoColor=F47E20" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/-Elastic%20Security-161b22?style=flat&logo=elastic&logoColor=005571" alt="Elastic"/>
+  <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-161b22?style=flat&logo=microsoftazure&logoColor=0078D4" alt="Sentinel"/>
+  <img src="https://img.shields.io/badge/-Microsoft%20Defender-161b22?style=flat&logo=windows&logoColor=0078D6" alt="Defender"/>
+  <img src="https://img.shields.io/badge/-Velociraptor-161b22?style=flat&logo=linux" alt="Velociraptor"/>
+</p>
 
----
+#### <img src="assets/icons/node.svg" width="11" alt="" /> &nbsp;Threat Intelligence & Detection Engineering
 
-### 🏢 Experience
+<p>
+  <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-161b22?style=flat&logo=target" alt="MITRE ATT&CK"/>
+  <img src="https://img.shields.io/badge/-Sigma%20Rules-161b22?style=flat" alt="Sigma Rules"/>
+  <img src="https://img.shields.io/badge/-STIX%202.1%20%2F%20TAXII-161b22?style=flat" alt="STIX 2.1"/>
+  <img src="https://img.shields.io/badge/-FortiGuard%20Threat%20Intel-161b22?style=flat&logo=fortinet&logoColor=EE3124" alt="FortiGuard"/>
+  <img src="https://img.shields.io/badge/-YARA-161b22?style=flat" alt="YARA"/>
+  <img src="https://img.shields.io/badge/-MISP-161b22?style=flat" alt="MISP"/>
+  <img src="https://img.shields.io/badge/-ThreatScopeX%20Engine-161b22?style=flat&logoColor=58a6ff" alt="ThreatScopeX"/>
+</p>
 
-| Role                                  | Organization                                                                                                                                                         | Period              |
-| :------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ |
-| 🔍 **Digital Forensics Investigator** | Digital Egypt Pioneers Initiative (DEPI)                                                                                                                             | Jan 2025 – Present  |
-| 🏗️ **Founder & Trainer**              | [Zero2Aura](https://www.linkedin.com/company/zero-2-aura/) — Next-gen tech academy (Cybersecurity, DFIR, Pentesting, Web Dev, Networking) · 11-50 employees · Remote | Oct 2025 – Present  |
-| 🛡️ **Cyber Security IR Analyst**      | Digital Egypt Pioneers Initiative (DEPI)                                                                                                                             | Oct 2024 – May 2025 |
-| 🔐 **Cyber Security Intern**          | The British University in Egypt (BUE) · ISO 21001 · On-site, Cairo                                                                                                   | Jul 2024            |
-| 🌐 **Translation & SEO Trainee**      | Lingua Stochos (Scholarship)                                                                                                                                         | Aug – Nov 2025      |
-| 🎯 **Professional Development**       | Be Ready Program                                                                                                                                                     | Aug 2025            |
+#### <img src="assets/icons/node.svg" width="11" alt="" /> &nbsp;Digital Forensics & Incident Response (DFIR)
 
----
+<p>
+  <img src="https://img.shields.io/badge/-Volatility%203-161b22?style=flat" alt="Volatility"/>
+  <img src="https://img.shields.io/badge/-Autopsy%20Forensics-161b22?style=flat" alt="Autopsy"/>
+  <img src="https://img.shields.io/badge/-FTK%20Imager-161b22?style=flat" alt="FTK Imager"/>
+  <img src="https://img.shields.io/badge/-KAPE-161b22?style=flat" alt="KAPE"/>
+  <img src="https://img.shields.io/badge/-Eric%20Zimmerman%20Tools-161b22?style=flat" alt="EZ Tools"/>
+  <img src="https://img.shields.io/badge/-Memory%20Forensics-161b22?style=flat" alt="Memory Forensics"/>
+</p>
 
-### 🎓 Education
+#### <img src="assets/icons/node.svg" width="11" alt="" /> &nbsp;Enterprise Network Architecture & Hardening
 
-**B.Sc. Information Technology** — Egyptian E-Learning University (EELU) · 2022 – 2026
+<p>
+  <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-161b22?style=flat&logo=cisco&logoColor=1BA0D7" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/-OSPF%20%2F%20VLANs%20%2F%20ACLs-161b22?style=flat" alt="Routing & Switching"/>
+  <img src="https://img.shields.io/badge/-Wireshark-161b22?style=flat&logo=wireshark&logoColor=1679A7" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/-Suricata%20NIDS-161b22?style=flat" alt="Suricata"/>
+  <img src="https://img.shields.io/badge/-Zeek%20(Bro)-161b22?style=flat" alt="Zeek"/>
+  <img src="https://img.shields.io/badge/-pfSense-161b22?style=flat&logo=pfsense&logoColor=212121" alt="pfSense"/>
+  <img src="https://img.shields.io/badge/-SSH%20Cryptographic%20Hardening-161b22?style=flat" alt="SSH Hardening"/>
+</p>
 
----
+#### <img src="assets/icons/node.svg" width="11" alt="" /> &nbsp;Languages, Automation & SecOps
 
-### 🏆 Certifications
+<p>
+  <img src="https://img.shields.io/badge/-Python-161b22?style=flat&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Bash%20Scripting-161b22?style=flat&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
+  <img src="https://img.shields.io/badge/-PowerShell-161b22?style=flat&logo=powershell&logoColor=5391FE" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/-C%20%2F%20C%2B%2B-161b22?style=flat&logo=c%2B%2B&logoColor=00599C" alt="C/C++"/>
+  <img src="https://img.shields.io/badge/-SQL-161b22?style=flat&logo=mysql" alt="SQL"/>
+  <img src="https://img.shields.io/badge/-Linux%20Administration-161b22?style=flat&logo=linux&logoColor=FCC624" alt="Linux"/>
+  <img src="https://img.shields.io/badge/-Docker-161b22?style=flat&logo=docker&logoColor=2496ED" alt="Docker"/>
+  <img src="https://img.shields.io/badge/-Git%20%2F%20GitHub-161b22?style=flat&logo=git" alt="Git"/>
+</p>
 
-| Certification                                        | Issuer                   |
-| :--------------------------------------------------- | :----------------------- |
-| Threat Intelligence 101 with Cisco Talos             | Cisco Networking Academy |
-| Certified Cybersecurity Educator Professional (CCEP) | Red Team Leaders         |
-| Google Cybersecurity Professional Certificate        | Google                   |
-| Security Operations Center (SOC)                     | Cisco                    |
-| Ethical Hacker                                       | Cisco Networking Academy |
-| Introduction to Cybersecurity                        | Cisco Networking Academy |
-| Incident Handling & Response                         | MaharaTech – ITIMooca    |
-| Pre Security                                         | TryHackMe                |
-| ISO 31000 Risk Management                            | Udemy                    |
-| Critical Thinking & Problem Solving                  | Alfaisal University      |
+<p align="center">
+  <img src="assets/divider.svg" width="900" alt="" />
+</p>
 
----
+## <img src="assets/icons/terminal.svg" width="23" alt="" /> Featured Open-Source Projects
 
-### 🛠️ Skills
+| Project | Description | Stack / Focus |
+| :--- | :--- | :--- |
+| 🔍 **[ThreatScopeX](https://github.com/0xsabry/ThreatScopeX)** | Advanced log intelligence and threat detection engine with 115+ built-in detection rules | Python, MITRE ATT&CK, Sigma, STIX 2.1 |
+| 📑 **[IR-Report-Generator](https://github.com/0xsabry/IR-Report-Generator)** | Browser-based incident response reporting tool supporting 40+ security tool artifacts | HTML5, CSS3, JS, MITRE Navigator |
+| 🛡️ **[SOC Lab Project](https://0xsabry.github.io/soc-lab-project/)** | End-to-end enterprise attack simulation, Wazuh detection, and automated IR simulation | Wazuh, Sysmon, EventLogs, Ubuntu, PowerShell |
+| 🎣 **[Phishing IR Framework](https://github.com/0xsabry)** | Complete 6-phase email forensic investigation framework aligned with NIST 800-61 | Email Header Forensics, IOC Extraction |
 
-**Security & DFIR**
+<p align="center">
+  <img src="assets/divider.svg" width="900" alt="" />
+</p>
 
-![SOC](https://img.shields.io/badge/SOC-0d1117?style=flat-square)
-![DFIR](https://img.shields.io/badge/DFIR-0d1117?style=flat-square)
-![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-0d1117?style=flat-square)
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-0d1117?style=flat-square)
-![Incident Response](https://img.shields.io/badge/Incident_Response-0d1117?style=flat-square)
-![Threat Intelligence](https://img.shields.io/badge/CTI-0d1117?style=flat-square)
-![Pentesting](https://img.shields.io/badge/Pentesting-0d1117?style=flat-square)
-![Vuln Assessment](https://img.shields.io/badge/Vuln_Assessment-0d1117?style=flat-square)
-![ISO 31000](https://img.shields.io/badge/ISO_31000-0d1117?style=flat-square)
+## <img src="assets/icons/briefcase.svg" width="23" alt="" /> Experience & Internships
 
-**Tools & Platforms**
+<p>
+<img src="assets/icons/target.svg" width="17" alt="" /> &nbsp; <strong>National Telecommunication Institute (NTI)</strong> | <em>SOC Analyst Intern (FortiAnalyzer + FortiSIEM)</em> | <strong>August 2026 – Present</strong><br/>
+• Completing intensive SOC Analyst track focused on Fortinet Security Operations workflows: event examination, event handlers, automated playbooks, forensic analysis, and threat intelligence reporting.<br/>
+• Using <strong>FortiAnalyzer</strong> for log collection and analysis, FortiView searches, incident management, threat hunting, custom reports, and Incident Response playbook creation and monitoring.<br/>
+• Operating <strong>FortiSIEM</strong> for real-time and historic searches, event correlation, custom incident rules, dashboard configuration, and UEBA-based threat hunting with FortiGuard Threat Intelligence.<br/>
+• Practicing detection, analysis, and remediation of security incidents using traditional and AI/ML-assisted methods; preparing for <strong>FCP – Security Operations</strong> and <strong>NSE 6 FortiSIEM Analyst</strong> certifications.
+</p>
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3C873A?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-4A90D9?style=flat-square)
-![FTK](https://img.shields.io/badge/FTK-6C63FF?style=flat-square)
-![Hashcat](https://img.shields.io/badge/Hashcat-FF4500?style=flat-square)
-![Volatility](https://img.shields.io/badge/Volatility-8B0000?style=flat-square)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+<p>
+<img src="assets/icons/shield.svg" width="17" alt="" /> &nbsp; <strong>Information Technology Institute (ITI)</strong> | <em>Cybersecurity Intern</em> | <strong>April 2026 – Present</strong><br/>
+• Engineered and hardened multi-zone enterprise network architecture in Cisco Packet Tracer with multi-VLAN Layer 2/3 segmentation, dynamic DHCP, and multi-area OSPF routing for secure high-availability communication.<br/>
+• Designed and enforced Extended ACLs to control traffic flow, isolate wireless zones, and restrict management-plane and server access to authorized hosts.<br/>
+• Hardened network appliances by enforcing cryptographic SSH on VTY lines and restricting management access; successfully defended architecture before ITI evaluation panel.<br/>
+• Completed modules in Cyber Security Essentials, Ethical Hacking & Vulnerability Assessment, and Huawei HCCDA Tech Essentials (cloud computing and ICT infrastructure).
+</p>
 
-**Forensics**
+<p>
+<img src="assets/icons/briefcase.svg" width="17" alt="" /> &nbsp; <strong>Digital Egypt Pioneers Initiative (DEPI)</strong> | <em>Digital Forensics Investigator</em> | <strong>Jan 2025 – Present</strong><br/>
+• Conducting digital forensics examinations, artifact analysis, and memory/disk investigation.
+</p>
 
-![Disk Imaging](https://img.shields.io/badge/Disk_Imaging-0d1117?style=flat-square)
-![Memory Forensics](https://img.shields.io/badge/Memory_Forensics-0d1117?style=flat-square)
-![Mobile Forensics](https://img.shields.io/badge/Mobile_Forensics-0d1117?style=flat-square)
-![Network Forensics](https://img.shields.io/badge/Network_Forensics-0d1117?style=flat-square)
+<p>
+<img src="assets/icons/award.svg" width="17" alt="" /> &nbsp; <strong><a href="https://www.linkedin.com/company/zero-2-aura/">Zero2Aura Tech Academy</a></strong> | <em>Cybersecurity Instructor</em> | <strong>Oct 2025 – Present</strong><br/>
+• Training students and aspiring security analysts in Cybersecurity, DFIR, Penetration Testing, and Networking.
+</p>
 
-**Programming**
+<p>
+<img src="assets/icons/shield.svg" width="17" alt="" /> &nbsp; <strong>Digital Egypt Pioneers Initiative (DEPI)</strong> | <em>Cyber Security Incident Response Analyst</em> | <strong>Oct 2024 – May 2025</strong><br/>
+• Analyzed security alerts, mapped incidents to MITRE ATT&CK, and executed IR playbooks.
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+<p>
+<img src="assets/icons/globe.svg" width="17" alt="" /> &nbsp; <strong>The British University in Egypt (BUE)</strong> | <em>Cyber Security Intern</em> | <strong>Jul 2024</strong>
+</p>
 
----
+<p align="center">
+  <img src="assets/divider.svg" width="900" alt="" />
+</p>
 
-### 🚀 Projects
+## <img src="assets/icons/chart.svg" width="23" alt="" /> GitHub Analytics & Streak
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fjlm.vercel.app/api?username=0xsabry&show_icons=true&bg_color=0b1017&title_color=58a6ff&text_color=c5d2e0&icon_color=3fb950&border_color=182231" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats-three-sand.vercel.app?user=0xsabry&background=0b1017&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=c5d2e0&currStreakNum=e6edf6&sideNums=e6edf6&dates=5b6b80&border=182231" alt="GitHub Streak"/>
+</p>
 
-**[🛡️ ThreatScope v3.0.0](https://github.com/0xsabry/ThreatScope)**
+<p align="center">
+  <img src="assets/divider.svg" width="900" alt="" />
+</p>
 
-Advanced log analysis and threat detection engine.
-
-`115+ detection rules` · `97 MITRE ATT&CK techniques` · `STIX 2.1 export` · `Sigma rule support` · `CLI + GUI` · `File integrity hashing`
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI-passing-brightgreen?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-**[📋 IR Report Generator](https://github.com/0xsabry/IR-Report-Generator)**
-
-Browser-based incident response report platform.
-
-`40+ security tools` · `MITRE ATT&CK mapping` · `IOC auto-extraction` · `Timeline builder` · `PDF/JSON export` · `Zero dependencies`
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-</table>
-
----
-
-### 📜 Phishing IR Framework
-
-Developed a 22-page Phishing Incident Response Framework covering the full 6-phase response cycle, email header analysis (SPF/DKIM), malware sandboxing, Splunk SIEM integration, and MITRE ATT&CK / NIST 800-61 alignment.
-
----
-
-### 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xsabry&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xsabry&theme=github-dark-blue&hide_border=true&background=0d1117" width="48%"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xsabry&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=f78166" width="95%"/>
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sabry-hamdan/)
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(max-width: 760px)" srcset="assets/footer-mobile.svg">
+    <img src="assets/footer.svg" width="900" alt="Thanks for visiting!" />
+  </picture>
+</p>
