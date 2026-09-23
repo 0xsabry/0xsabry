@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source >
-    <img src="assets/banner.svg" width="900" alt="Mohamed Sabry Hamdan — SOC Analyst & DFIR Specialist" />
+    <img />
   </picture>
 </p>
 
