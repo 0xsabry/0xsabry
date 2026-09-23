@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 760px)" srcset="assets/banner-mobile.svg">
+    <source >
     <img src="assets/banner.svg" width="900" alt="Mohamed Sabry Hamdan — SOC Analyst & DFIR Specialist" />
   </picture>
 </p>
