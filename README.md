@@ -1,170 +1,182 @@
 <p align="center">
   <picture>
     <source media="(max-width: 760px)" srcset="assets/banner-mobile.svg">
-    <img src="assets/banner.svg" width="900" alt="Mohamed Sabry Hamdan - SOC Analyst & DFIR Specialist" />
+    <img src="assets/banner.svg" width="100%" alt="NIGHTWATCH — Mohamed Sabry. Cybersecurity, detection engineering and DFIR, alongside a decorative signal schematic.">
   </picture>
 </p>
 
-<h3 align="center"><i>&ldquo;In the dark of the logs, he finds what others never see.&rdquo;</i></h3>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-sabry-hamdan/"><img src="https://img.shields.io/badge/-LinkedIn-171310?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="https://github.com/0xsabry"><img src="https://img.shields.io/badge/-GitHub-171310?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://0xsabry.github.io/soc-lab-project/"><img src="https://img.shields.io/badge/-SOC_Portfolio-171310?style=flat&logo=target&logoColor=ff9f1a" alt="SOC Portfolio"/></a>
-  <a href="https://www.linkedin.com/company/zero-2-aura/"><img src="https://img.shields.io/badge/-Zero2Aura_Instructor-171310?style=flat&logo=shield&logoColor=3fb950" alt="Zero2Aura"/></a>
-  <a href="mailto:2201381@student.eelu.edu.eg"><img src="https://img.shields.io/badge/-Email-171310?style=flat&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=0xsabry&label=Profile%20views&color=ff9f1a&style=flat" alt="Profile views"/>
+  <strong>Mohamed Sabry</strong> &nbsp;·&nbsp; cybersecurity &nbsp;·&nbsp; detection engineering &nbsp;·&nbsp; DFIR<br/>
+  <sub>I build detection systems that turn raw telemetry into evidence — and evidence into decisions.</sub>
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" width="900" alt="" />
+  <img src="assets/divider.svg" width="100%" alt="" />
 </p>
 
-## <img src="assets/icons/user.svg" width="23" alt="" /> Act I &mdash; The Analyst
+## 01 · Opening Transmission
 
-> **CLASSIFIED DOSSIER // EYES ONLY** &mdash; **SOC Analyst & DFIR Specialist** specializing in security monitoring, proactive threat detection, digital forensics, and security tool engineering. Currently completing intensive SOC & cybersecurity tracks at **NTI** (Fortinet SecOps) and **ITI** (Enterprise Network Hardening), working in DFIR at the **Digital Egypt Pioneers Initiative (DEPI)**, and serving as a **Cybersecurity Instructor at Zero2Aura**.
+```text
+0xsabry@nightwatch:~$ whoami
+mohamed sabry — cybersecurity / blue team / cairo, eg
+
+0xsabry@nightwatch:~$ cat focus.txt
+detection engineering · incident response · digital forensics · security automation
+
+0xsabry@nightwatch:~$ ls ~/work
+threatscopex/    ir-report-generator/    soc-soar-lab/    dfir-cases/
+```
+
+I'm early in this field and deliberate about how I build it: labs first, evidence second, claims last. Most of what I know comes from designing detection pipelines, writing my own tooling, and documenting investigations end to end — not from asserting expertise I haven't earned yet.
 
 <p align="center">
-  <img src="assets/divider.svg" width="900" alt="" />
+  <img src="assets/divider.svg" width="100%" alt="" />
 </p>
 
-## <img src="assets/icons/shield.svg" width="23" alt="" /> Act II &mdash; The Arsenal
+## 02 · Operational Focus
 
-#### <img src="assets/icons/node.svg" width="11" alt="" /> &nbsp;Security Operations &amp; SIEM / EDR
+| Domain | Work in practice |
+| :--- | :--- |
+| **Blue team & SOC** | Log ingestion, alert triage, event correlation and evidence capture in isolated lab environments |
+| **Detection engineering** | Sigma and YARA rules, behavioral chains, MITRE ATT&CK mapping, false-positive tuning |
+| **DFIR** | Disk and memory artifacts, timeline reconstruction, IOC extraction, structured case reporting |
+| **Security automation** | Python tooling, webhook integrations, active-response actions, repeatable lab builds |
+| **Network security** | Segmentation, VLAN / OSPF / ACL design, traffic analysis, management-plane hardening |
+| **AI in security** | Studying hypothesis-driven investigation and LLM-assisted triage — studying, not production experience |
 
-<p>
-  <img src="https://img.shields.io/badge/-Wazuh%20SIEM-171310?style=flat&logo=wazuh&logoColor=007ec6" alt="Wazuh"/>
-  <img src="https://img.shields.io/badge/-FortiSIEM-171310?style=flat&logo=fortinet&logoColor=EE3124" alt="FortiSIEM"/>
-  <img src="https://img.shields.io/badge/-FortiAnalyzer-171310?style=flat&logo=fortinet&logoColor=EE3124" alt="FortiAnalyzer"/>
-  <img src="https://img.shields.io/badge/-Splunk-171310?style=flat&logo=splunk&logoColor=F47E20" alt="Splunk"/>
-  <img src="https://img.shields.io/badge/-Elastic%20Security-171310?style=flat&logo=elastic&logoColor=005571" alt="Elastic"/>
-  <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-171310?style=flat&logo=microsoftazure&logoColor=0078D4" alt="Sentinel"/>
-  <img src="https://img.shields.io/badge/-Microsoft%20Defender-171310?style=flat&logo=windows&logoColor=0078D6" alt="Defender"/>
-  <img src="https://img.shields.io/badge/-Velociraptor-171310?style=flat&logo=linux" alt="Velociraptor"/>
-</p>
+#### Field record
 
-#### <img src="assets/icons/node.svg" width="11" alt="" /> &nbsp;Threat Intelligence &amp; Detection Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-171310?style=flat&logo=target" alt="MITRE ATT&CK"/>
-  <img src="https://img.shields.io/badge/-Sigma%20Rules-171310?style=flat" alt="Sigma Rules"/>
-  <img src="https://img.shields.io/badge/-STIX%202.1%20%2F%20TAXII-171310?style=flat" alt="STIX 2.1"/>
-  <img src="https://img.shields.io/badge/-FortiGuard%20Threat%20Intel-171310?style=flat&logo=fortinet&logoColor=EE3124" alt="FortiGuard"/>
-  <img src="https://img.shields.io/badge/-YARA-171310?style=flat" alt="YARA"/>
-  <img src="https://img.shields.io/badge/-MISP-171310?style=flat" alt="MISP"/>
-  <img src="https://img.shields.io/badge/-ThreatScopeX%20Engine-171310?style=flat&logoColor=ffb347" alt="ThreatScopeX"/>
-</p>
-
-#### <img src="assets/icons/node.svg" width="11" alt="" /> &nbsp;Digital Forensics &amp; Incident Response (DFIR)
-
-<p>
-  <img src="https://img.shields.io/badge/-Volatility%203-171310?style=flat" alt="Volatility"/>
-  <img src="https://img.shields.io/badge/-Autopsy%20Forensics-171310?style=flat" alt="Autopsy"/>
-  <img src="https://img.shields.io/badge/-FTK%20Imager-171310?style=flat" alt="FTK Imager"/>
-  <img src="https://img.shields.io/badge/-KAPE-171310?style=flat" alt="KAPE"/>
-  <img src="https://img.shields.io/badge/-Eric%20Zimmerman%20Tools-171310?style=flat" alt="EZ Tools"/>
-  <img src="https://img.shields.io/badge/-Memory%20Forensics-171310?style=flat" alt="Memory Forensics"/>
-</p>
-
-#### <img src="assets/icons/node.svg" width="11" alt="" /> &nbsp;Enterprise Network Architecture &amp; Hardening
-
-<p>
-  <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-171310?style=flat&logo=cisco&logoColor=1BA0D7" alt="Cisco"/>
-  <img src="https://img.shields.io/badge/-OSPF%20%2F%20VLANs%20%2F%20ACLs-171310?style=flat" alt="Routing & Switching"/>
-  <img src="https://img.shields.io/badge/-Wireshark-171310?style=flat&logo=wireshark&logoColor=1679A7" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/-Suricata%20NIDS-171310?style=flat" alt="Suricata"/>
-  <img src="https://img.shields.io/badge/-Zeek%20(Bro)-171310?style=flat" alt="Zeek"/>
-  <img src="https://img.shields.io/badge/-pfSense-171310?style=flat&logo=pfsense&logoColor=212121" alt="pfSense"/>
-  <img src="https://img.shields.io/badge/-SSH%20Cryptographic%20Hardening-171310?style=flat" alt="SSH Hardening"/>
-</p>
-
-#### <img src="assets/icons/node.svg" width="11" alt="" /> &nbsp;Languages, Automation &amp; SecOps
-
-<p>
-  <img src="https://img.shields.io/badge/-Python-171310?style=flat&logo=python&logoColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/-Bash%20Scripting-171310?style=flat&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
-  <img src="https://img.shields.io/badge/-PowerShell-171310?style=flat&logo=powershell&logoColor=5391FE" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/-C%20%2F%20C%2B%2B-171310?style=flat&logo=c%2B%2B&logoColor=00599C" alt="C/C++"/>
-  <img src="https://img.shields.io/badge/-SQL-171310?style=flat&logo=mysql" alt="SQL"/>
-  <img src="https://img.shields.io/badge/-Linux%20Administration-171310?style=flat&logo=linux&logoColor=FCC624" alt="Linux"/>
-  <img src="https://img.shields.io/badge/-Docker-171310?style=flat&logo=docker&logoColor=2496ED" alt="Docker"/>
-  <img src="https://img.shields.io/badge/-Git%20%2F%20GitHub-171310?style=flat&logo=git" alt="Git"/>
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" width="900" alt="" />
-</p>
-
-## <img src="assets/icons/terminal.svg" width="23" alt="" /> Feature Presentation &mdash; Open-Source
-
-<p align="center"><i>NOW SHOWING</i></p>
-
-| Project | Description | Stack / Focus |
+| Period | Role | Program |
 | :--- | :--- | :--- |
-| 🔍 **[ThreatScopeX](https://github.com/0xsabry/ThreatScopeX)** | Advanced log intelligence and threat detection engine with 115+ built-in detection rules | Python, MITRE ATT&CK, Sigma, STIX 2.1 |
-| 📑 **[IR-Report-Generator](https://github.com/0xsabry/IR-Report-Generator)** | Browser-based incident response reporting tool supporting 40+ security tool artifacts | HTML5, CSS3, JS, MITRE Navigator |
-| 🛡️ **[SOC Lab Project](https://0xsabry.github.io/soc-lab-project/)** | End-to-end enterprise attack simulation, Wazuh detection, and automated IR simulation | Wazuh, Sysmon, EventLogs, Ubuntu, PowerShell |
-| 🎣 **[Phishing IR Framework](https://github.com/0xsabry)** | Complete 6-phase email forensic investigation framework aligned with NIST 800-61 | Email Header Forensics, IOC Extraction |
+| Aug 2026 – Sep 2026 | SOC Analyst Intern · FortiAnalyzer / FortiSIEM | NTI |
+| Apr 2026 – present | Cybersecurity Intern · enterprise network hardening | ITI |
+| Nov 2025 – Jul 2026 | Digital Forensics Trainee | DEPI |
+| Oct 2025 – Sep 2026 | Cybersecurity Instructor · part-time | Zero2Aura |
+| Oct 2024 – May 2025 | Incident Response Trainee | DEPI |
+| Aug 2026 – present | Training & Technical Lead · volunteer | Th3 N3ST |
+
+#### Education
+
+**BSc Information Technology** · Egyptian E-Learning University (EELU) · 2022 – 2027 · final year
 
 <p align="center">
-  <img src="assets/divider.svg" width="900" alt="" />
+  <img src="assets/divider.svg" width="100%" alt="" />
 </p>
 
-## <img src="assets/icons/briefcase.svg" width="23" alt="" /> The Credits &mdash; Experience
+## 03 · Selected Investigations
 
-<p>
-<img src="assets/icons/target.svg" width="17" alt="" /> &nbsp; <strong>National Telecommunication Institute (NTI)</strong> | <em>SOC Analyst Intern (FortiAnalyzer + FortiSIEM)</em> | <strong>August 2026 – Present</strong><br/>
-• Completing intensive SOC Analyst track focused on Fortinet Security Operations workflows: event examination, event handlers, automated playbooks, forensic analysis, and threat intelligence reporting.<br/>
-• Using <strong>FortiAnalyzer</strong> for log collection and analysis, FortiView searches, incident management, threat hunting, custom reports, and Incident Response playbook creation and monitoring.<br/>
-• Operating <strong>FortiSIEM</strong> for real-time and historic searches, event correlation, custom incident rules, dashboard configuration, and UEBA-based threat hunting with FortiGuard Threat Intelligence.<br/>
-• Practicing detection, analysis, and remediation of security incidents using traditional and AI/ML-assisted methods; preparing for <strong>FCP – Security Operations</strong> and <strong>NSE 6 FortiSIEM Analyst</strong> certifications.
-</p>
+Four public projects that best represent how I work — the problem, the implementation, and what is actually inside the repository.
 
-<p>
-<img src="assets/icons/shield.svg" width="17" alt="" /> &nbsp; <strong>Information Technology Institute (ITI)</strong> | <em>Cybersecurity Intern</em> | <strong>April 2026 – Present</strong><br/>
-• Engineered and hardened multi-zone enterprise network architecture in Cisco Packet Tracer with multi-VLAN Layer 2/3 segmentation, dynamic DHCP, and multi-area OSPF routing for secure high-availability communication.<br/>
-• Designed and enforced Extended ACLs to control traffic flow, isolate wireless zones, and restrict management-plane and server access to authorized hosts.<br/>
-• Hardened network appliances by enforcing cryptographic SSH on VTY lines and restricting management access; successfully defended architecture before ITI evaluation panel.<br/>
-• Completed modules in Cyber Security Essentials, Ethical Hacking & Vulnerability Assessment, and Huawei HCCDA Tech Essentials (cloud computing and ICT infrastructure).
-</p>
+### CASE 01 — ThreatScopeX
+**A detection engine for heterogeneous logs** &nbsp;·&nbsp; `ACTIVE` &nbsp;·&nbsp; `Python` `Sigma` `YARA` `STIX 2.1`
 
-<p>
-<img src="assets/icons/briefcase.svg" width="17" alt="" /> &nbsp; <strong>Digital Egypt Pioneers Initiative (DEPI)</strong> | <em>Digital Forensics Investigator</em> | <strong>Jan 2025 – Present</strong><br/>
-• Conducting digital forensics examinations, artifact analysis, and memory/disk investigation.
-</p>
+> **Problem** — Windows, Linux and application logs arrive in different formats, get triaged in different tools, and the timeline is rebuilt by hand.
+> **Built** — Multi-platform parsers, Sigma and YARA rule execution, behavioral-chain detection, causal process graphs, deep forensic artifact parsers (Prefetch, $MFT, Shimcache, Amcache), STIX 2.1 export, and both CLI and web interfaces.
+> **Signal** — One pipeline carries raw logs through triage, investigation and intelligence export without leaving the tool.
 
-<p>
-<img src="assets/icons/award.svg" width="17" alt="" /> &nbsp; <strong><a href="https://www.linkedin.com/company/zero-2-aura/">Zero2Aura Tech Academy</a></strong> | <em>Cybersecurity Instructor</em> | <strong>Oct 2025 – Present</strong><br/>
-• Training students and aspiring security analysts in Cybersecurity, DFIR, Penetration Testing, and Networking.
-</p>
+**[Repository →](https://github.com/0xsabry/ThreatScopeX)**
 
-<p>
-<img src="assets/icons/shield.svg" width="17" alt="" /> &nbsp; <strong>Digital Egypt Pioneers Initiative (DEPI)</strong> | <em>Cyber Security Incident Response Analyst</em> | <strong>Oct 2024 – May 2025</strong><br/>
-• Analyzed security alerts, mapped incidents to MITRE ATT&CK, and executed IR playbooks.
-</p>
+### CASE 02 — Distributed SOC & SOAR Lab
+**A five-node detection and response lab across separate networks** &nbsp;·&nbsp; `TEAM · COMPLETE`
 
-<p>
-<img src="assets/icons/globe.svg" width="17" alt="" /> &nbsp; <strong>The British University in Egypt (BUE)</strong> | <em>Cyber Security Intern</em> | <strong>Jul 2024</strong>
-</p>
+> **Problem** — Single-machine labs prove a rule fires; they don't prove telemetry transport, enrichment and containment across a distributed estate.
+> **Built** — As project lead and SIEM architect: Wazuh manager deployment and hardening, custom OSSEC detection rules, webhook integration and active-response bindings. The team added a Shuffle SOAR workflow, VirusTotal enrichment and red-team simulations against Linux, Windows and Windows Server targets.
+> **Signal** — A documented, reproducible path from attack simulation to endpoint containment, with evidence artifacts at every stage.
+
+**[Repository →](https://github.com/0xsabry/wazuh-shuffle-soar-soc-lab)** &nbsp;·&nbsp; **[Team credits →](https://github.com/0xsabry/wazuh-shuffle-soar-soc-lab#-team-roles--contributions)**
+
+### CASE 03 — IR Report Generator
+**A zero-dependency incident report builder** &nbsp;·&nbsp; `COMPLETE` &nbsp;·&nbsp; `HTML` `CSS` `JavaScript`
+
+> **Problem** — Incident reports are assembled by hand from screenshots and notes, so structure and evidence quality vary from analyst to analyst.
+> **Built** — A browser-only application that aggregates findings from 55+ security tools across nine categories: incident metadata, timeline, IOC tracking, chain of custody, ATT&CK mapping, response actions and structured export.
+> **Signal** — Runs from a single HTML entry point with no server or build step, and keeps evidence ordering explicit.
+
+**[Repository →](https://github.com/0xsabry/IR-Report-Generator)**
+
+### CASE 04 — DFIR Case File: ISO-Delivered JavaScript Dropper
+**Static forensic examination of a weaponized ISO image** &nbsp;·&nbsp; `REPORT` &nbsp;·&nbsp; `Autopsy 4.22.1`
+
+> **Problem** — A file disguised as a purchase-order PDF had to be examined without ever executing it.
+> **Built** — A full case report under reference `INC-2026-0306-001`: double-extension spoofing, obfuscated JavaScript, WScript execution artifacts, registry persistence paths, MOTW evasion through the ISO container, negative findings, IOCs and ATT&CK mapping.
+> **Signal** — A published investigation trail with an evidence gallery, severity findings and containment recommendations — not just a malware summary.
+
+**[Case report →](https://github.com/0xsabry/digital-forensics-malware-investigation)**
+
+#### Also in the archive
+
+| Repository | What it shows |
+| :--- | :--- |
+| [SOC Lab Project](https://github.com/0xsabry/soc-lab-project) | Wazuh and ThreatScope driven through three simulated attack scenarios, with ATT&CK mapping and an exported case report |
+| [Enterprise Network Hardening](https://github.com/0xsabry/enterprise-network-hardening-traffic-control) | Multi-VLAN, multi-area OSPF architecture with Extended ACLs and SSH hardening; Packet Tracer artifact and write-up included |
+| [Portfolio](https://0xsabry.github.io/) | Project write-ups and reports collected in one place |
 
 <p align="center">
-  <img src="assets/divider.svg" width="900" alt="" />
+  <img src="assets/divider.svg" width="100%" alt="" />
 </p>
 
-## <img src="assets/icons/chart.svg" width="23" alt="" /> By the Numbers &mdash; GitHub Analytics
+## 04 · Technical Arsenal
+
+| Layer | Tools |
+| :--- | :--- |
+| **SIEM & monitoring** | Wazuh · Splunk (lab) · Elastic (lab) · Microsoft Sentinel (lab) · FortiSIEM · FortiAnalyzer |
+| **Detection & intelligence** | Sigma · YARA · MITRE ATT&CK · Suricata · Zeek · STIX 2.1 · VirusTotal |
+| **DFIR** | Autopsy · Volatility 3 · KAPE · FTK Imager · Eric Zimmerman tools · Wireshark |
+| **Network** | Cisco Packet Tracer · pfSense · VLAN / OSPF / ACL design · SSH hardening |
+| **Engineering** | Python · Bash · PowerShell · Docker · Git · Linux · Windows |
+
+#### Certifications
+
+| Provider | Credentials |
+| :--- | :--- |
+| **Microsoft** | SC-900 · Cybersecurity Analyst Professional Certificate |
+| **Google** | Cybersecurity Professional Certificate |
+| **Cisco** | SOC · Junior Cybersecurity Analyst · CCNA 7 training · Threat Intelligence 101 (Talos) |
+| **Huawei** | HCIA-Security · HCCDA Tech Essentials |
+| **Other** | TryHackMe SOC Level 1 · Incident Handling & Response (MaharaTech) |
+
+**Actively learning** — cloud telemetry, AI-assisted triage, and the Fortinet Security Operations track (FCP · NSE 6).
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fjlm.vercel.app/api?username=0xsabry&show_icons=true&bg_color=0d0d11&title_color=ffb347&text_color=c9d1d9&icon_color=ff9f1a&border_color=2a2118" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats-three-sand.vercel.app?user=0xsabry&background=0d0d11&ring=ffb347&fire=ff3b30&currStreakLabel=ffb347&sideLabels=c9d1d9&currStreakNum=e6edf6&sideNums=e6edf6&dates=8b7355&border=2a2118" alt="GitHub Streak"/>
+  <img src="assets/divider.svg" width="100%" alt="" />
 </p>
 
+## 05 · Current Work
+
+| Workstream | State | Detail |
+| :--- | :--- | :--- |
+| **ThreatScopeX** | `ACTIVE` | Extending forensic parsers, causal process graphs and the AI-assisted investigation module |
+| **Detection lab** | `COMPLETE` | Distributed Wazuh → Shuffle → active-response pipeline, documented for reproduction |
+| **AI-assisted triage** | `STUDYING` | Hypothesis-driven investigation patterns, and where model output can actually be verified |
+| **Fortinet SecOps discipline** | `PREPARING` | FCP – Security Operations and NSE 6 FortiSIEM Analyst |
+
 <p align="center">
-  <img src="assets/divider.svg" width="900" alt="" />
+  <img src="assets/divider.svg" width="100%" alt="" />
 </p>
+
+## 06 · Engineering Philosophy
+
+**Evidence over narrative.** Logs record what happened. A report should never describe what I hoped happened.
+
+**A detection must explain itself.** If a rule cannot say why it fired — and what it would miss — it isn't finished.
+
+**Automate repetition, investigate exceptions.** Machines should handle the thousandth alert; a human should own the strange one.
+
+**Build the tool you needed at 02:00.** The most useful tooling comes from a real gap hit during a real investigation.
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+</p>
+
+## 07 · Contact
+
+**Based in Cairo, Egypt — open to SOC, DFIR and detection engineering opportunities, and to collaboration on defensive tooling.**
+
+[LinkedIn](https://www.linkedin.com/in/mohamed-sabry-hamdan/) &nbsp;·&nbsp; [GitHub](https://github.com/0xsabry)
 
 <p align="center">
   <picture>
     <source media="(max-width: 760px)" srcset="assets/footer-mobile.svg">
-    <img src="assets/footer.svg" width="900" alt="Thanks for watching!" />
+    <img src="assets/footer.svg" width="100%" alt="End of transmission — Mohamed Sabry, 0xsabry.">
   </picture>
 </p>
