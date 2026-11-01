@@ -1,17 +1,25 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 760px)" srcset="assets/banner-mobile.svg">
-    <img src="assets/banner.svg" width="100%" alt="NIGHTWATCH — Mohamed Sabry. Cybersecurity, detection engineering and DFIR, alongside a decorative signal schematic.">
+    <source media="(max-width: 640px)" srcset="assets/animations/hero-mobile.gif" type="image/gif">
+    <source media="(max-width: 640px)" srcset="assets/images/hero-mobile-static.png" type="image/png">
+    <source srcset="assets/animations/hero-desktop.gif" type="image/gif">
+    <source srcset="assets/images/hero-desktop-static.png" type="image/png">
+    <img src="assets/images/hero-desktop-static.png" width="100%" alt="L Lawliet in a dark cyber-forensics workspace, with Mohamed Sabry, Cybersecurity | DFIR, and Investigate. Analyze. Respond. in muted cyan typography.">
   </picture>
 </p>
 
 <p align="center">
-  <strong>Mohamed Sabry</strong> &nbsp;·&nbsp; cybersecurity &nbsp;·&nbsp; detection engineering &nbsp;·&nbsp; DFIR<br/>
+  <strong>Mohamed Sabry</strong> &nbsp;·&nbsp; Cybersecurity | DFIR<br/>
+  <sub>Digital Forensics &amp; Incident Response</sub><br/>
+  <sub>Investigate. Analyze. Respond.</sub><br/>
   <sub>I build detection systems that turn raw telemetry into evidence — and evidence into decisions.</sub>
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
+  <picture>
+    <source srcset="assets/animations/signal-divider.gif" type="image/gif">
+    <img src="assets/images/signal-divider-static.png" width="100%" alt="A subtle cyan forensic signal timeline divider.">
+  </picture>
 </p>
 
 ## 01 · Opening Transmission
@@ -27,10 +35,20 @@ detection engineering · incident response · digital forensics · security auto
 threatscopex/    ir-report-generator/    soc-soar-lab/    dfir-cases/
 ```
 
+<p align="center">
+  <picture>
+    <source srcset="assets/animations/terminal.gif" type="image/gif">
+    <img src="assets/images/terminal-static.png" width="100%" alt="Illustrative terminal animation showing investigation initialization, digital evidence analysis, forensic artifact correlation, and incident response readiness. It does not represent live operations.">
+  </picture>
+</p>
+
 I'm early in this field and deliberate about how I build it: labs first, evidence second, claims last. Most of what I know comes from designing detection pipelines, writing my own tooling, and documenting investigations end to end — not from asserting expertise I haven't earned yet.
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
+  <picture>
+    <source srcset="assets/animations/signal-divider.gif" type="image/gif">
+    <img src="assets/images/signal-divider-static.png" width="100%" alt="A subtle cyan forensic signal timeline divider.">
+  </picture>
 </p>
 
 ## 02 · Operational Focus
@@ -43,6 +61,13 @@ I'm early in this field and deliberate about how I build it: labs first, evidenc
 | **Security automation** | Python tooling, webhook integrations, active-response actions, repeatable lab builds |
 | **Network security** | Segmentation, VLAN / OSPF / ACL design, traffic analysis, management-plane hardening |
 | **AI in security** | Studying hypothesis-driven investigation and LLM-assisted triage — studying, not production experience |
+
+<p align="right">
+  <picture>
+    <source srcset="assets/animations/dfir-radar.gif" type="image/gif">
+    <img src="assets/images/dfir-radar-static.png" width="144" alt="Decorative DFIR radar illustration, not live monitoring.">
+  </picture>
+</p>
 
 #### Field record
 
@@ -60,7 +85,10 @@ I'm early in this field and deliberate about how I build it: labs first, evidenc
 **BSc Information Technology** · Egyptian E-Learning University (EELU) · 2022 – 2027 · final year
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
+  <picture>
+    <source srcset="assets/animations/signal-divider.gif" type="image/gif">
+    <img src="assets/images/signal-divider-static.png" width="100%" alt="A subtle cyan forensic signal timeline divider.">
+  </picture>
 </p>
 
 ## 03 · Selected Investigations
@@ -112,7 +140,10 @@ Four public projects that best represent how I work — the problem, the impleme
 | [Portfolio](https://0xsabry.github.io/) | Project write-ups and reports collected in one place |
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
+  <picture>
+    <source srcset="assets/animations/signal-divider.gif" type="image/gif">
+    <img src="assets/images/signal-divider-static.png" width="100%" alt="A subtle cyan forensic signal timeline divider.">
+  </picture>
 </p>
 
 ## 04 · Technical Arsenal
@@ -138,7 +169,10 @@ Four public projects that best represent how I work — the problem, the impleme
 **Actively learning** — cloud telemetry, AI-assisted triage, and the Fortinet Security Operations track (FCP · NSE 6).
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
+  <picture>
+    <source srcset="assets/animations/signal-divider.gif" type="image/gif">
+    <img src="assets/images/signal-divider-static.png" width="100%" alt="A subtle cyan forensic signal timeline divider.">
+  </picture>
 </p>
 
 ## 05 · Current Work
@@ -151,7 +185,10 @@ Four public projects that best represent how I work — the problem, the impleme
 | **Fortinet SecOps discipline** | `PREPARING` | FCP – Security Operations and NSE 6 FortiSIEM Analyst |
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
+  <picture>
+    <source srcset="assets/animations/signal-divider.gif" type="image/gif">
+    <img src="assets/images/signal-divider-static.png" width="100%" alt="A subtle cyan forensic signal timeline divider.">
+  </picture>
 </p>
 
 ## 06 · Engineering Philosophy
@@ -165,7 +202,10 @@ Four public projects that best represent how I work — the problem, the impleme
 **Build the tool you needed at 02:00.** The most useful tooling comes from a real gap hit during a real investigation.
 
 <p align="center">
-  <img src="assets/divider.svg" width="100%" alt="" />
+  <picture>
+    <source srcset="assets/animations/signal-divider.gif" type="image/gif">
+    <img src="assets/images/signal-divider-static.png" width="100%" alt="A subtle cyan forensic signal timeline divider.">
+  </picture>
 </p>
 
 ## 07 · Contact
