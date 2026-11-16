@@ -105,11 +105,11 @@ Four public projects that best represent how I work — the problem, the impleme
 **[Repository →](https://github.com/0xsabry/ThreatScopeX)**
 
 ### CASE 02 — Distributed SOC & SOAR Lab
-**A five-node detection and response lab across separate networks** &nbsp;·&nbsp; `TEAM · COMPLETE`
+**A five-node detection and response lab across separate networks** &nbsp;·&nbsp; `DOCUMENTED · OFFLINE-VALIDATED`
 
 > **Problem** — Single-machine labs prove a rule fires; they don't prove telemetry transport, enrichment and containment across a distributed estate.
 > **Built** — As project lead and SIEM architect: Wazuh manager deployment and hardening, custom OSSEC detection rules, webhook integration and active-response bindings. The team added a Shuffle SOAR workflow, VirusTotal enrichment and red-team simulations against Linux, Windows and Windows Server targets.
-> **Signal** — A documented, reproducible path from attack simulation to endpoint containment, with evidence artifacts at every stage.
+> **Signal** — Reproduction guides, configuration examples and offline checks document the intended path from attack simulation to response. Live alert delivery and endpoint containment still require validation in a version-matched environment.
 
 **[Repository →](https://github.com/0xsabry/wazuh-shuffle-soar-soc-lab)** &nbsp;·&nbsp; **[Team credits →](https://github.com/0xsabry/wazuh-shuffle-soar-soc-lab#-team-roles--contributions)**
 
@@ -180,7 +180,7 @@ Four public projects that best represent how I work — the problem, the impleme
 | Workstream | State | Detail |
 | :--- | :--- | :--- |
 | **ThreatScopeX** | `ACTIVE` | Extending forensic parsers, causal process graphs and the AI-assisted investigation module |
-| **Detection lab** | `COMPLETE` | Distributed Wazuh → Shuffle → active-response pipeline, documented for reproduction |
+| **Detection lab** | `OFFLINE-VALIDATED` | Wazuh/Shuffle configuration and workflow structure checks; live alert delivery and endpoint containment remain unverified |
 | **AI-assisted triage** | `STUDYING` | Hypothesis-driven investigation patterns, and where model output can actually be verified |
 | **Fortinet SecOps discipline** | `PREPARING` | FCP – Security Operations and NSE 6 FortiSIEM Analyst |
 
